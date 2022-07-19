@@ -1,0 +1,7 @@
+#!/bin/bash
+
+cp ./svn-vimdiff /usr/local/bin/svn-vimdiff
+cp ./svn-nvimdiff /usr/local/bin/svn-nvimdiff
+
+chmod 755 /usr/local/bin/svn-vimdiff
+chmod 755 /usr/local/bin/svn-nvimdiff

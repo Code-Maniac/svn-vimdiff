@@ -1,4 +1,4 @@
-# svnvimdiff
+# svn-vimdiff
 Simple wrapper scripts for using vimdiff or nvim -d with svn
 
 ## Installation
